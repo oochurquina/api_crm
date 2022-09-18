@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "OMAR",
+      "empresa": "EJERCITO ARGENTINO",
+      "email": "oochurquina@hotmail.com",
+      "telefono": "2932471394",
+      "notas": "ESTE REGISTRO FUE ACTUALIZADO...EL 18/09/22\n:))))",
+      "id": 1
+    }
+  ]
+}
